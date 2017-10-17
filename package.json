@@ -67,7 +67,8 @@
   },
   "peerDependencies": {
     "react": "^15.4.1",
-    "react-dom": "^15.4.1"
+    "react-dom": "^15.4.1",
+    "prop-types": "^15.5.8"
   },
   "babel": {
     "presets": [
