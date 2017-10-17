@@ -1,5 +1,5 @@
 {
-  "name": "react-ellipsis-text",
+  "name": "@pottersresort/react-ellipsis-text",
   "version": "1.0.1",
   "description": "React component which ellipsis text",
   "main": "index.js",
